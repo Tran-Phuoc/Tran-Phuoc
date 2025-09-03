@@ -20,5 +20,5 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=phuoctran&show_icons=true&theme=tokyonight)
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/your-link)
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/tr%E1%BA%A7n-ph%C6%B0%E1%BB%9Bc-8ab242172/)
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:tranphuoc1852000@gmail.com)
