@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Phuoc Tran  
+# 👋 Hello, I'm Phuoc Tran  
 
 💡 Data Engineer | Cloud & DevOps Enthusiast | AI & Automation Explorer  
 
