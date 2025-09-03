@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Phuoc Tran  
 
-<!--
-**Tran-Phuoc/Tran-Phuoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 Data Engineer | Cloud & DevOps Enthusiast | AI & Automation Explorer  
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🔭 Currently working on real-time data pipelines (Kafka, Spark, Redis, PostgreSQL, FastAPI)  
+- ☁️ Experienced with AWS & Azure cloud platforms  
+- 📊 Skilled in Python, SQL, Big Data, and Data Warehousing  
+- ⚡ Love solving Rubik's cubes, playing chess, and football  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-336791?logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-FF9900?logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+
+## 📈 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=phuoctran&show_icons=true&theme=tokyonight)
+
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/your-link)
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:your-email@example.com)
